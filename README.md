@@ -5,7 +5,7 @@ https://developer.cisco.com/meraki/api/#!introduction
 
 # API
 
-- [ ] API Usage
+- [X] API Usage
 - [ ] Action Batches
 - [ ] Admins
 - [ ] Alert settings

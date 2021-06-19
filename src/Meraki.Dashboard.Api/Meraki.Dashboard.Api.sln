@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meraki.Dashboard.Api", "Meraki.Dashboard.Api\Meraki.Dashboard.Api.csproj", "{FEB054C9-58DC-4889-8E88-873DD875A30C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merak.Dashboard.Api.Tetsts", "Merak.Dashboard.Api.Tetsts\Merak.Dashboard.Api.Tetsts.csproj", "{E1963EA2-F5E3-40E2-BCFF-FB726023CFCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB054C9-58DC-4889-8E88-873DD875A30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB054C9-58DC-4889-8E88-873DD875A30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB054C9-58DC-4889-8E88-873DD875A30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB054C9-58DC-4889-8E88-873DD875A30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1963EA2-F5E3-40E2-BCFF-FB726023CFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1963EA2-F5E3-40E2-BCFF-FB726023CFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1963EA2-F5E3-40E2-BCFF-FB726023CFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1963EA2-F5E3-40E2-BCFF-FB726023CFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
